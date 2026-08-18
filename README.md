@@ -34,7 +34,7 @@ flower-shop/
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/sreedevi77n-del/ecommerce-website/commit/764cddf8f6ec840ffc959514b6d9d168d331ab92
+https://github.com/sreedevi77n-del/ecommerce-website
 ```
 
 ### 2. Open the Project
